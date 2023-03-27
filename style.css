@@ -2,16 +2,27 @@ body {
   font-family: fantasy, Arial, Helvetica, sans-serif;
   background-color: cadetblue;
   text-align: center;
-  font-size: larger;
+  font-size: 45px;
 }
 
 h1 {
+  color: white;
   text-align: center;
   font-size: 65px;
+  
+}
+
+ul {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
 }
 
 
 img {
   width: 700px;
   height: auto;
+  border: 8px;
+  border: 10px solid darkblue;
 }
